@@ -1,0 +1,8 @@
+{
+"diagnostic.displayByAle": true
+
+    "coc.preferences.triggerCompletionWait": 100,
+    "coc.preferences.completeOnKey": {
+        "space": true
+        
+    }
